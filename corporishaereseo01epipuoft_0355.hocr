@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corporishaereseo01epipuoft_0355.png"; bbox 0 0 2052 3374; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 353 1107 1596 1191">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 353 1107 1596 1191">
+     <span class='ocr_line' id='line_1_1' title="bbox 353 1107 1596 1191; baseline 0.004 -6"><span class='ocrx_word' id='word_1_1' title='bbox 353 1107 854 1187; x_wconf 83' lang='lat' dir='ltr'><strong>GENNADII</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 901 1110 1596 1191; x_wconf 80' lang='lat' dir='ltr'>MASSILIENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 131 1566 1837 1647">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 131 1566 1837 1647">
+     <span class='ocr_line' id='line_1_2' title="bbox 131 1566 1837 1647; baseline 0.008 -14"><span class='ocrx_word' id='word_1_3' title='bbox 131 1566 265 1640; x_wconf 91' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 328 1570 1107 1641; x_wconf 76' lang='lat' dir='ltr'><strong>ECCLESIASTICIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1170 1575 1837 1647; x_wconf 77' lang='lat' dir='ltr'><strong>DOGMATIBUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

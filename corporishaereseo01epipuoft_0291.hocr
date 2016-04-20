@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corporishaereseo01epipuoft_0291.png"; bbox 0 0 2052 3374; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 328 1072 1457 1152">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 328 1072 1457 1152">
+     <span class='ocr_line' id='line_1_1' title="bbox 328 1072 1457 1152; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 328 1073 703 1152; x_wconf 80' lang='lat' dir='ltr'><strong>PSEU&#39;DO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 730 1116 755 1132; x_wconf 96' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 780 1072 1457 1150; x_wconf 84' lang='lat' dir='ltr'><strong>TERTULLIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 797 1317 986 1366">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 797 1317 986 1366">
+     <span class='ocr_line' id='line_1_2' title="bbox 797 1317 986 1366; baseline 0.005 -1"><span class='ocrx_word' id='word_1_4' title='bbox 797 1317 986 1366; x_wconf 84' lang='lat' dir='ltr'>LIBER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 159 1533 1624 1604">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 159 1533 1624 1604">
+     <span class='ocr_line' id='line_1_3' title="bbox 159 1533 1624 1604; baseline -0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 159 1535 672 1604; x_wconf 83' lang='lat' dir='ltr'><strong>ADVERSUS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 722 1534 1050 1604; x_wconf 84' lang='lat' dir='ltr'><strong>OMNES</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1099 1533 1624 1602; x_wconf 85' lang='lat' dir='ltr'><strong>HAERESES.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
